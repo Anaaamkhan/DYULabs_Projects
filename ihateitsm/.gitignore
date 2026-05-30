@@ -1,0 +1,8 @@
+Create/Edit .gitignore file  
+In your project folder, make a file named .gitignore (no extension). Inside, list what you want Git to ignore:
+# STM32CubeIDE ignore rules
+Debug/
+Release/
+.settings/
+*.launch
+*.log
