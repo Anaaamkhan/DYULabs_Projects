@@ -1,0 +1,19 @@
+# Compilation outputs and binaries
+Debug/
+Release/
+*.o
+*.su
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+
+# IDE specific settings
+.settings/
+*.launch
+.history/
+
+# OS specific temporary files
+.DS_Store
+Thumbs.db
